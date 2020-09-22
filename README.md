@@ -7,4 +7,4 @@ and the laws of Hywel Dda are applied to three Celtic legends:
 'Tormac Etain', 'Tain Bo Froich' and 'Branwen, uerch Lyr'.
 </p>
 
-<img src=https://i0.wp.com/cryptopia.us/site/wp-content/uploads/2010/04/kokkol_serpent.jpg alt= "Peist" width="504" height="504">
+<img src=https://vignette.wikia.nocookie.net/cryptidz/images/6/6f/Serpen.jpg/revision/latest?cb=20140416190834 alt= "Peist" width="300" height="300">
