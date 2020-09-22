@@ -6,5 +6,3 @@ The purpose of the research is to see to which extent Old Irish Brehon law
 and the laws of Hywel Dda are applied to three Celtic legends:
 'Tormac Etain', 'Tain Bo Froich' and 'Branwen, uerch Lyr'.
 </p>
-
-<img src=http://vignette3.wikia.nocookie.net/warriorsofmyth/images/8/86/Sea_serpent.jpg/revision/latest/scale-to-width-down/272?cb=2011022502221 alt= "Peist" width="272" height="272">
