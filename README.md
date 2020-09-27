@@ -1,7 +1,7 @@
 # Law-in-Legends
 
 <ul> 
-  <li><a href="The_Findings.asp">The Findings</a></li>
+  <li><a href="The_Findings.html">The Findings</a></li>
  </ul>
 
 <h2><strong> About the academic </strong></h2> 
