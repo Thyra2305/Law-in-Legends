@@ -12,7 +12,7 @@ Thyra SM van Veen, BA studied Celtic Languages and Culture at Utrecht University
 This research is the first in its field - as far as she can tell.
 The purpose of the research is to see to which extent Old Irish Brehon law
 and the laws of Hywel Dda are applied to three Celtic legends:
-'Tormac Etain', 'Tain Bo Froich' and 'Branwen, uerch Lyr'. 
+'Tormac Etaine' ('The Wooing of Etaine'), 'Tain Bo Froich' ('The Cattle Rustling of Froich') and 'Branwen, uerch Lyr' ('Branwen, daughter of Lyr'). 
 </p>
 <img src="http://www.drachenserver.de/wordpress/wp-content/gallery/bob-eggleton/dynamic/Bob_Eggleton_-_Gloucester_Sea_Serpent.jpg-nggid0257-ngg0dyn-180x0-00f0w010c010r110f110r010t010.jpg" alt="See the source image" class=" nofocus" tabindex="0" aria-label="See the source image" data-bm="4">
 <img src="https://www.ecoenchantments.co.uk/images/Ogham%20trees/etain_frame_small.jpg" alt="See the source image" class=" nofocus" tabindex="0" aria-label="See the source image" data-bm="21">
