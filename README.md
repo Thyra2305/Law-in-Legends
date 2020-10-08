@@ -13,6 +13,9 @@ Whatever one's image of both those countries may be, there are not many who imme
 and the stories and legends that were told by bards of old and then written down by Christian scribes. Without the three stories I studied, or the others, we would
 not be able to have a looking glass into the culture and the minds of the Medieval Insular (Ireland, Scotland, Wales, Cornwall) Celts. 
 
+<img src="https://i.pinimg.com/originals/12/f6/89/12f68981021813a407f3ef15311cbeda.jpg" alt="See the source image" class=" nofocus" tabindex="0" aria-label="See the source image">
+<img src="http://i3.cpcache.com/product_zoom/71388390/red_welsh_dragon_black_cap.jpg?height=460&amp;width=460&amp;padToSquare=true" alt="See the source image" class=" nofocus" tabindex="0" aria-label="See the source image">
+
 <h3><strong> Tormac Etaine </strong></h3>  
 
 <p>
