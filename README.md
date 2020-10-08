@@ -1,3 +1,5 @@
+<html>
+
 # Law-in-Legends
 
 <ul> 
@@ -13,8 +15,8 @@ Whatever one's image of both those countries may be, there are not many who imme
 and the stories and legends that were told by bards of old and then written down by Christian scribes. Without the three stories I studied, or the others, we would
 not be able to have a looking glass into the culture and the minds of the Medieval Insular (Ireland, Scotland, Wales, Cornwall) Celts. 
 
-<img src="https://i.pinimg.com/originals/12/f6/89/12f68981021813a407f3ef15311cbeda.jpg" alt="See the source image" class=" nofocus" tabindex="0" aria-label="See the source image">
-<img src="http://i3.cpcache.com/product_zoom/71388390/red_welsh_dragon_black_cap.jpg?height=460&amp;width=460&amp;padToSquare=true" alt="See the source image" class=" nofocus" tabindex="0" aria-label="See the source image">
+<img src="https://i.pinimg.com/736x/99/37/e0/9937e09672901d62963f9f3fa1562886--raven-art-crows.jpg" alt="See the source image" class=" nofocus" tabindex="0" aria-label="See the source image">
+<img src="http://imgc.artprintimages.com/images/art-print/michael-k-davies-welsh-dragon_i-G-16-1643-Y86GD00Z.jpg" alt="See the source image" class=" nofocus" tabindex="0" aria-label="See the source image" data-bm="21">
 
 <h3><strong> Tormac Etaine </strong></h3>  
 
@@ -23,5 +25,14 @@ not be able to have a looking glass into the culture and the minds of the Mediev
 the manuscript Lebor na hUidre ('Book of the Dun Cow', 1106 CE) and preserved in its complete form in the Yellow Book of Lecan (1401 CE). The book tells the story of the different loves of Etaine, a beautfiul mortal woman of the clan of the Ulaid, such as Midir of the Tuatha de Danann (Irish pantheon of gods) and Eochaid, a mortal man, and also tells the story of how Oengus, the god of love, managed to win land from Midir. This story is particularly interesting to research in the context of law in legends because the story has 
 been described as displaying "poetic sense of law". 
 </p>
-<img src="http://www.drachenserver.de/wordpress/wp-content/gallery/bob-eggleton/dynamic/Bob_Eggleton_-_Gloucester_Sea_Serpent.jpg-nggid0257-ngg0dyn-180x0-00f0w010c010r110f110r010t010.jpg" alt="See the source image" class=" nofocus" tabindex="0" aria-label="See the source image" data-bm="4">
+
 <img src="https://www.ecoenchantments.co.uk/images/Ogham%20trees/etain_frame_small.jpg" alt="See the source image" class=" nofocus" tabindex="0" aria-label="See the source image" data-bm="21">
+
+<h4><strong> Tain Bo Froich </strong></h4>
+
+<p> 'Tain Bo Froich' ('the Cattle Rustling of Froich', also known as the Romance of Froich and Findabair') is a wooing in the first part of the story. Froich, a nobleman with fairy origins, sets out to meet the daughter of Ailill and Medb, the monarchs of Connacht, named Findabair because he has heard the girl has fallen in love with him. After Froich rejects to pay an extorntionate bride-price, Ailill, fearing the abduction of his daughter, tries to prevent it by scheming Froich's death, which fails. Medb and Ailill later promise Findabair to Froich if he particpates in the cattle raid to seize the bull that Medb has had her eye on. In the second half of the story, Froich discovers his own cattle is stolen. </p>
+
+<img src="http://www.drachenserver.de/wordpress/wp-content/gallery/bob-eggleton/dynamic/Bob_Eggleton_-_Gloucester_Sea_Serpent.jpg-nggid0257-ngg0dyn-180x0-00f0w010c010r110f110r010t010.jpg" alt="See the source image" class=" nofocus" tabindex="0" aria-label="See the source image" data-bm="4">
+
+
+</html>
