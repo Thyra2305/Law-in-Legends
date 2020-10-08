@@ -1,7 +1,5 @@
 <html>
 
-# Law-in-Legends
-
 <ul> 
   <li><a href="The_Findings.html">The Findings</a></li>
   <li><a href="Background_on_ the_laws.html">Background on the laws </a></li>
@@ -15,8 +13,8 @@ Whatever one's image of both those countries may be, there are not many who imme
 and the stories and legends that were told by bards of old and then written down by Christian scribes. Without the three stories I studied, or the others, we would
 not be able to have a looking glass into the culture and the minds of the Medieval Insular (Ireland, Scotland, Wales, Cornwall) Celts. 
 
-<img src="https://i.pinimg.com/736x/99/37/e0/9937e09672901d62963f9f3fa1562886--raven-art-crows.jpg" alt="See the source image" class=" nofocus" tabindex="0" aria-label="See the source image">
-<img src="http://imgc.artprintimages.com/images/art-print/michael-k-davies-welsh-dragon_i-G-16-1643-Y86GD00Z.jpg" alt="See the source image" class=" nofocus" tabindex="0" aria-label="See the source image" data-bm="21">
+<img src="https://i.pinimg.com/236x/63/30/a0/6330a0601ec561d7d76f7b69fbfd736e--celtic-art-milena.jpg?nii=t" alt="See the source image" class=" nofocus" tabindex="0" aria-label="See the source image">
+<img src="http://www.kuksoolwoncalgary.com/Welsh%20Flag.gif" alt="See the source image" class=" nofocus" tabindex="0" aria-label="See the source image">
 
 <h3><strong> Tormac Etaine </strong></h3>  
 
@@ -33,6 +31,11 @@ been described as displaying "poetic sense of law".
 <p> 'Tain Bo Froich' ('the Cattle Rustling of Froich', also known as the Romance of Froich and Findabair') is a wooing in the first part of the story. Froich, a nobleman with fairy origins, sets out to meet the daughter of Ailill and Medb, the monarchs of Connacht, named Findabair because he has heard the girl has fallen in love with him. After Froich rejects to pay an extorntionate bride-price, Ailill, fearing the abduction of his daughter, tries to prevent it by scheming Froich's death, which fails. Medb and Ailill later promise Findabair to Froich if he particpates in the cattle raid to seize the bull that Medb has had her eye on. In the second half of the story, Froich discovers his own cattle is stolen. </p>
 
 <img src="http://www.drachenserver.de/wordpress/wp-content/gallery/bob-eggleton/dynamic/Bob_Eggleton_-_Gloucester_Sea_Serpent.jpg-nggid0257-ngg0dyn-180x0-00f0w010c010r110f110r010t010.jpg" alt="See the source image" class=" nofocus" tabindex="0" aria-label="See the source image" data-bm="4">
+
+
+<h5><strong> Branwen, uerch Lyr </strong></h5>
+
+<p> 'Branwen, uerch Lyr' ('Branwen, daughter of Llyr') is the Second Branch of the Mabinogi, the most famous compendium of Welsh legends which was translated by Lady Charlotte Guest. Bendigeidfran, Branwen's brother, is King and rules from Harlech, one of the seats of power of Wales in the medieval era. The king of Ireland, Matholwch, comes to Harlech to ask for Branwen's hand in marriage. Everyone agrees, except the half-brother Efnyisen. </p>
 
 
 </html>
