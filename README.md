@@ -2,7 +2,7 @@
 
 <ul> 
   <li><a href="https://thyra2305.github.io/The-Findings/">The-Findings</a></li>
-  <li><a href="Background_on_ the_laws.html">Background on the laws </a></li>
+  <li><a href="https://thyra2305.github.io/About/">About</a></li>
  </ul>
 
 <h2><strong> Introducing the Legends </strong></h2> 
