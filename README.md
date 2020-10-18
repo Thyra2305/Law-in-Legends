@@ -20,7 +20,7 @@ not be able to have a looking glass into the culture and the minds of the Mediev
 
 <p>
 'Tormac Etaine' ('The Wooing of Etaine') is part of the Irish Mythological Cycle (a collection of stories that are purely based on Irish mythology) and is partially preserved in
-the manuscript Lebor na hUidre ('Book of the Dun Cow', 1106 CE) and preserved in its complete form in the Yellow Book of Lecan (1401 CE). The book tells the story of the different loves of Etaine, a beautfiul mortal woman of the clan of the Ulaid, such as Midir of the Tuatha de Danann (Irish pantheon of gods) and Eochaid, a mortal man, and also tells the story of how Oengus, the god of love, managed to win land from Midir. This story is particularly interesting to research in the context of law in legends because the story has 
+the manuscript Lebor na hUidre ('Book of the Dun Cow', 1106 CE) and preserved in its complete form in the Yellow Book of Lecan (1401 CE). The book tells the story of the different loves of Etaine, a beautfiul mortal woman of the clan of the Ulaid (in Northern Ireland), such as Midir of the Tuatha de Danann (Irish pantheon of gods) and Eochaid, a mortal man, and also tells the story of how Oengus, the god of love, managed to win land from Midir. This story is particularly interesting to research in the context of law in legends because the story has 
 been described as displaying "poetic sense of law". 
 </p>
 
@@ -35,7 +35,7 @@ been described as displaying "poetic sense of law".
 
 <h5><strong> Branwen, uerch Lyr </strong></h5>
 
-<p> 'Branwen, uerch Lyr' ('Branwen, daughter of Llyr') is the Second Branch of the Mabinogi, the most famous compendium of Welsh legends which was translated by Lady Charlotte Guest. Bendigeidfran, Branwen's brother, is King and rules from Harlech, one of the seats of power of Wales in the medieval era. The king of Ireland, Matholwch, comes to Harlech to ask for Branwen's hand in marriage. Everyone agrees, except the half-brother Efnyisen. He mutilates Matholwch's horses and effectively causes war between Ireland and the British Isles because Matholwch still held a grudge, even after being compensated. </p>
+<p> 'Branwen, uerch Lyr' ('Branwen, daughter of Llyr') is the Second Branch of the Mabinogi, the most famous compendium of Welsh legends which was translated by Lady Charlotte Guest between 1838 and 1849. Bendigeidfran, Branwen's brother, is King and rules from Harlech, one of the seats of power of Wales in the medieval era. The king of Ireland, Matholwch, comes to Harlech to ask for Branwen's hand in marriage. Everyone agrees, except the half-brother Efnyisen. He mutilates Matholwch's horses and effectively causes war between Ireland and the British Isles because Matholwch still held a grudge, even after being compensated. </p>
 
 <img style="-webkit-user-select: none;margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Branwen.jpg">
 
