@@ -3,6 +3,7 @@
 <ul> 
   <li><a href="https://thyra2305.github.io/The-Findings/">The-Findings</a></li>
   <li><a href="https://thyra2305.github.io/About/">About</a></li>
+  <li><a href="https://thyra2305.github.io/References/">References</a></li>
  </ul>
 
 <h2><strong> Introducing the Legends </strong></h2> 
