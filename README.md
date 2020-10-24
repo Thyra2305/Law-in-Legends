@@ -8,8 +8,8 @@
 
 <h2><strong> Introducing the Legends </strong></h2> 
 
-When one thinks of Ireland, what image is conjured in your mind? A land that hums with life? Beer? The accent? The triskele? Lephrechauns? The Troubles? Potatoes? 
-The same for Wales; what comes to mind? Y Ddraig Goch (the Red Dragon)? The sheep? The Crown? Llewyln ap Gruffud? Owain Glyndwr? Henry VII? 
+When one thinks of Ireland, what image is conjured in your mind? A land that hums with life? Beer? The accent? The beer, specifically Guinness? Red haired people? The triskele? Lephrechauns? The Troubles? Potatoes? 
+The same for Wales; what comes to mind? Y Ddraig Goch (the Red Dragon)? Permanent rain? Unpronouncable place names? The Eisteddfod? The hills and sheep? Rugby? Popty-ping? Llewyln ap Gruffud? Owain Glyndwr? Henry VII? 
 Whatever one's image of both those countries may be, there are not many who immediately think of the rich literary, culutral history of the Ireland and Wales 
 and the stories and legends that were told by bards of old and then written down by Christian scribes. Without the three stories I studied, or the others, we would
 not be able to have a looking glass into the culture and the minds of the Medieval Insular (Ireland, Scotland, Wales, Cornwall) Celts. 
@@ -36,8 +36,10 @@ been described as displaying "poetic sense of law".
 
 <h5><strong> Branwen, uerch Lyr </strong></h5>
 
-<p> 'Branwen, uerch Lyr' ('Branwen, daughter of Llyr') is the Second Branch of the Mabinogi, the most famous compendium of Welsh legends which was translated by Lady Charlotte Guest between 1838 and 1849. Bendigeidfran, Branwen's brother, is King and rules from Harlech, one of the seats of power of Wales in the medieval era. The king of Ireland, Matholwch, comes to Harlech to ask for Branwen's hand in marriage. Everyone agrees, except the half-brother Efnyisen. He mutilates Matholwch's horses and effectively causes war between Ireland and the British Isles because Matholwch still held a grudge, even after being compensated. </p>
+<p> 'Branwen, uerch Lyr' ('Branwen, daughter of Llyr') is the Second Branch of the Mabinogi, the most famous compendium of Welsh legends which was translated by Lady Charlotte Guest between 1838 and 1849. It is one of Four Branches. Bendigeidfran, Branwen's brother, is King and rules from Harlech, one of the seats of power of Wales in the medieval era. The king of Ireland, Matholwch, comes to Harlech to ask for Branwen's hand in marriage. Everyone agrees, except the half-brother Efnyisen. He mutilates Matholwch's horses and effectively causes war between Ireland and the British Isles because Matholwch still held a grudge, even after being compensated. </p>
 
 <img style="-webkit-user-select: none;margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Branwen.jpg">
+
+These stories were fun and unique to read and study, and I hope you enjoy your visit to my website!
 
 </html>
